@@ -1,3 +1,7 @@
+<p align="center">
+        <img src="https://raw.githubusercontent.com/arpit-dwivedi/DevIncept.github.io/master/assets/img/Devincept.gif" width="50%">
+</p>
+
 # DevMerch
 An E-store for buying merchandise
 
