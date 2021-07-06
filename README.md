@@ -17,3 +17,11 @@ An E-store for buying merchandise
 * Integrations: Razorpay, Shiprocket
 
 > The contributor team might be asked to join as intern for completing the project and deploying.
+
+
+<br>
+<h5 align="center">
+< Happy Learning />
+<br>
+<a href="https://Devincept.tech">DevIncept</a> | © 2021
+</h5>
