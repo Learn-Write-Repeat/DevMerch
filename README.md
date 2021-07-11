@@ -18,6 +18,7 @@ An E-store for buying merchandise
 
 > The contributor team might be asked to join as intern for completing the project and deploying.
 
+> Project to be started from scratch, initials issues like homepage, login/signup can be created.
 
 <br>
 <h5 align="center">
